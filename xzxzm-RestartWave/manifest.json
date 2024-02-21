@@ -1,0 +1,17 @@
+{
+	"name": "RestartWave",
+	"namespace": "xzxzm",
+	"version_number": "1.0.0",
+	"description": "Allows restarting of wave.",
+	"website_url": "https://github.com/xzxzm/Brotato-Mod-RestartWave",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["xzxzm"],
+			"compatible_mod_loader_version": "6.0.0",
+			"compatible_game_version": ["0.8.0.3"],
+			"config_defaults": {}
+		}
+	}
+}
