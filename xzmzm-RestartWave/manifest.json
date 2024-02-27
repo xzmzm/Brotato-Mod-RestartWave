@@ -1,14 +1,14 @@
 {
 	"name": "RestartWave",
-	"namespace": "xzxzm",
+	"namespace": "xzmzm",
 	"version_number": "1.0.0",
-	"description": "Allows restarting of wave.",
-	"website_url": "https://github.com/xzxzm/Brotato-Mod-RestartWave",
+	"description": "Allows restarting of wave.\n手残者福利，这一波可以直接重来，无需完全重新开始。",
+	"website_url": "https://github.com/xzmzm/Brotato-Mod-RestartWave",
 	"dependencies": [],
 	"extra": {
 		"godot": {
 			"incompatibilities": [],
-			"authors": ["xzxzm"],
+			"authors": ["xzmzm"],
 			"compatible_mod_loader_version": "6.0.0",
 			"compatible_game_version": ["0.8.0.3"],
 			"config_defaults": {}

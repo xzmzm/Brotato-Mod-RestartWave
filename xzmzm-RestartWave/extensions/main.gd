@@ -1,13 +1,13 @@
 extends "res://main.gd"
 
-const RESTARTWAVE_LOG = "xzxzm-RestartWave"
+const RESTARTWAVE_LOG = "xzmzm-RestartWave"
 
 var _restart_wave_menu
 var _restart_wave_timer: Timer
 
 func _ready():
 	ModLoaderLog.info("main ready", "RestartWave")
-	_restart_wave_menu = preload("res://mods-unpacked/xzxzm-RestartWave/extensions/restartwave.tscn").instance()
+	_restart_wave_menu = preload("res://mods-unpacked/xzmzm-RestartWave/extensions/restartwave.tscn").instance()
 	$UI.add_child(_restart_wave_menu)
 	_restart_wave_timer = _restart_wave_menu.get_node("%Timer")
 	_restart_wave_timer.connect("timeout", self, "_on_restart_wave_timer_timeout")

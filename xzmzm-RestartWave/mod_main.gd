@@ -1,7 +1,7 @@
 extends Node
 
-const RESTARTWAVE_LOG = "xzxzm-RestartWave"
-const RESTARTWAVE_MOD_DIR = "xzxzm-RestartWave/"
+const RESTARTWAVE_LOG = "xzmzm-RestartWave"
+const RESTARTWAVE_MOD_DIR = "xzmzm-RestartWave/"
 var dir = ""
 
 func _init(modLoader = ModLoader):
