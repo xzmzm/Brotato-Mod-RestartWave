@@ -1,8 +1,8 @@
 {
 	"name": "RestartWave",
 	"namespace": "xzmzm",
-	"version_number": "1.0.0",
-	"description": "Allows restarting of wave.\n手残者福利，这一波可以直接重来，无需完全重新开始。",
+	"version_number": "1.0.1",
+	"description": "Allows restarting of wave.\n手残党福利，这一波可以直接重来，无需完全重新开始。",
 	"website_url": "https://github.com/xzmzm/Brotato-Mod-RestartWave",
 	"dependencies": [],
 	"extra": {
